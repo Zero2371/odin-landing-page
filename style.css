@@ -31,6 +31,13 @@ body{
     background-color: grey;
     padding: 0 225px;
     margin: 30px;
+    display: flex;
+    flex-direction: column;
+}
+.placeholder{
+  align-items: center;
+  margin-top: 50%;
+  color: #f9faf8;
 }
 .title h1{
     font-size: 48px;
